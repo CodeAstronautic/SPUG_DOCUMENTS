@@ -1,0 +1,5 @@
+# SPUG_DOCUMENTS
+THIS RESPO IN FOR SPUG MEET UPS.
+
+
+Django basic Tutorial .
